@@ -1,7 +1,5 @@
 # Literalura
 
---- 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-11-blue)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)](https://spring.io/projects/spring-boot)
@@ -12,8 +10,6 @@ Reto propuesto por [Alura LATAM](https://www.aluracursos.com) para la ruta de fo
 
 ![literalura](images/literalura_logo.png)
 ## Acerca del proyecto
-
----
 
 Literalura es una aplicación por consola que permite interactuar con datos de autores y libros.
 Además de consumir la API de [Gutendex](https://gutendex.com) para obtener información del catalogo de libros y de sus metadatos.
@@ -31,9 +27,6 @@ Además de consumir la API de [Gutendex](https://gutendex.com) para obtener info
 - Buscar autores fallecidos por siglo.
 
 ## Comenzando 
-
----
-
 ### Prerrequisitos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina local:
@@ -65,14 +58,9 @@ mvn spring-boot:run
 
 ## Contribuir
 
----
-
 Si deseas contribuir a este proyecto, por favor, haz un fork del repositorio y crea una pull request. Asegúrate de que tu código sigue las convenciones de estilo de Java.
 
 ## Licencia
-
----
-
 Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo `LICENSE.txt`
 
 ## Authors
