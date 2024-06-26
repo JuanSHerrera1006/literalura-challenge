@@ -63,6 +63,6 @@ Si deseas contribuir a este proyecto, por favor, haz un fork del repositorio y c
 ## Licencia
 Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo `LICENSE.txt`
 
-## Authors
+## Autores
 | [<img src="https://avatars.githubusercontent.com/u/86378159?&v=4" width=115><br><sub>Juan Sebastian Herrera Gomez</sub>]() |
 |:-----------------------------------------------------------------------------------------------:|
