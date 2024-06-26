@@ -38,7 +38,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina loc
 ### Instalación
 1. Clona el repositorio en tu máquina local.
 ```sh
-git clone 
+git clone https://github.com/JuanSHerrera1006/literalura-challenge.git
 ```
 2. Configura las variables de entorno en el archivo `application.properties`.
 ```properties
